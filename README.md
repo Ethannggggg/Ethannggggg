@@ -8,13 +8,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science student at **The Chinese University of Hong Kong (CUHK)** with a keen interest in AI solutions, full-stack development, and innovative problem-solving. Currently working as a Part-Time Software Engineer at **Parami** and previously interned at **TRM HK Limited**.
+I'm a passionate Computer Science student at **The Chinese University of Hong Kong (CUHK)** with keen interests in **cybersecurity**, **digital forensics**, **cryptography**, AI solutions, and innovative problem-solving. Currently working as a Part-Time Software Engineer at **Parami** and previously interned at **TRM HK Limited**.
 
 - 🎓 **Education:** BSc Computer Science @ CUHK (2023-2027) | Minor in Risk Management
+- 🔐 **Security Focus:** Steganography, digital forensics, and CTF competitions
 - 🏆 **Achievements:** Gold Award Winner at ICAN 2021 & 21st Hong Kong Youth Science & Technology Innovation Competition
 - 🧠 **Innovation:** Developed brainwave technology to detect driver sleepiness
-- 🌟 **Current CGPA:** 3.177/4.0
-- 📧 **Contact:** ethan0725@gmail.com
 
 ## 💼 Professional Experience
 
@@ -64,8 +63,11 @@ I'm a passionate Computer Science student at **The Chinese University of Hong Ko
 ### Design & Multimedia
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-### Cybersecurity
-![Security](https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+### Cybersecurity & Digital Forensics
+![Security](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+![Steganography](https://img.shields.io/badge/Steganography-8B4513?style=for-the-badge&logo=magnifying-glass&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-DC143C?style=for-the-badge&logo=search&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=key&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -77,6 +79,24 @@ I'm a passionate Computer Science student at **The Chinese University of Hong Ko
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🎯 Featured Projects
+
+### 🛡️ **Cybersecurity & Digital Forensics**
+
+#### 🕵️ **Stegabits - Steganography Decoder**
+Advanced command-line tool for extracting hidden data from images, specializing in digital forensics and CTF challenges.
+
+**Key Features:**
+- **Bit Plane Analysis:** LSB/MSB extraction with custom bit masking
+- **Multi-Channel Support:** All RGB permutations (RGB, BGR, RBG, GRB, GBR, BRG)
+- **Intelligent Extraction:** Column/row directional reading with smart ASCII filtering
+- **Bruteforce Mode:** Automated channel combination testing
+- **Binary Recovery:** Extract hidden files (ZIP, images, documents)
+
+**Tech Stack:** Python 3, Pillow (PIL), Advanced bit manipulation algorithms
+
+*Designed for security researchers, CTF players, and digital forensics investigators*
+
+---
 
 ### 🤖 **MathAiBot**
 AI-powered mathematics assistant bot
@@ -112,14 +132,6 @@ Innovative brainwave technology solution for detecting driver fatigue
 - 👥 Provided care for elderly residents and individuals with disabilities
 - 🌐 Fostered cross-cultural understanding through exchange programs
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethannggggg&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethannggggg&layout=compact&theme=radical)
-
 </div>
 
 ## 📫 Let's Connect!
@@ -130,11 +142,6 @@ Innovative brainwave technology solution for detecting driver fatigue
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:66776643)
 
 </div>
-
-## 🌟 Languages
-
-- 🇺🇸 **English** - Fluent
-- 🇨🇳 **Mandarin** - Fluent
 
 ---
 
