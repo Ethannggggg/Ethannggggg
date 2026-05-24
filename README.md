@@ -118,6 +118,7 @@ Innovative brainwave technology solution for detecting driver fatigue
 
 ## 🏆 Certifications & Awards
 
+- 🛡️ **Google CyberSecurity Certificate** (2026)
 - 🛡️ **ISC2 CC Certificate** (2025)
 - 💰 **Talent Development Scholarship** (2024)
 - 🎓 **CUHK Admission Scholarship** (2023)
